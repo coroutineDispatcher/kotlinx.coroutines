@@ -40,8 +40,8 @@ module('ui/kotlinx-coroutines-swing')
 
 module('js/js-stub')
 if (!build_snapshot_train) {
-    module('js/example-frontend-js')
-    include('site')
+//    module('js/example-frontend-js')
+//    include('site')
 }
 
 module('publication-validator')
